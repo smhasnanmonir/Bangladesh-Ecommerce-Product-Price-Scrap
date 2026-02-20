@@ -1,0 +1,980 @@
+2026-02-20 22:42:27,466 - INFO - ============================================================
+2026-02-20 22:42:27,466 - INFO - SKINNORA SCRAPER - ENHANCED VERSION
+2026-02-20 22:42:27,466 - INFO - ============================================================
+2026-02-20 22:42:34,096 - INFO - Running full scrape...
+2026-02-20 23:00:52,823 - INFO - ============================================================
+2026-02-20 23:00:52,823 - INFO - SKINNORA SCRAPER - ENHANCED VERSION
+2026-02-20 23:00:52,823 - INFO - ============================================================
+2026-02-20 23:00:54,440 - INFO - Running full scrape...
+2026-02-20 23:00:55,670 - INFO - Loading first page to determine total pages...
+2026-02-20 23:00:55,670 - INFO - Navigating to: https://www.skinnora.com/shop (attempt 1/3)
+2026-02-20 23:01:01,750 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:01,754 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:01,763 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:01,869 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:02,886 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:04,136 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:04,149 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:01:06,709 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:06,805 - INFO - Total pages detected: 67
+2026-02-20 23:01:06,807 - INFO - Starting scrape of 67 pages
+2026-02-20 23:01:06,808 - INFO - Processing page 1: https://www.skinnora.com/shop
+2026-02-20 23:01:06,809 - INFO - Navigating to: https://www.skinnora.com/shop (attempt 1/3)
+2026-02-20 23:01:10,422 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:10,423 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:10,424 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:10,428 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:10,494 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:10,564 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:11,532 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:12,670 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:12,697 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:12,701 - INFO - Found 28 products on page
+2026-02-20 23:01:12,712 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:12,713 - INFO - Page 1: Scraped 28 products (Total: 28)
+2026-02-20 23:01:14,722 - INFO - Processing page 2: https://www.skinnora.com/shop/page/2/
+2026-02-20 23:01:14,722 - INFO - Navigating to: https://www.skinnora.com/shop/page/2/ (attempt 1/3)
+2026-02-20 23:01:16,953 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:16,954 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:16,996 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:16,997 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:17,364 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:01:17,376 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:18,003 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:19,134 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:19,164 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:19,170 - INFO - Found 28 products on page
+2026-02-20 23:01:19,178 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:19,178 - INFO - Page 2: Scraped 28 products (Total: 56)
+2026-02-20 23:01:21,179 - INFO - Processing page 3: https://www.skinnora.com/shop/page/3/
+2026-02-20 23:01:21,180 - INFO - Navigating to: https://www.skinnora.com/shop/page/3/ (attempt 1/3)
+2026-02-20 23:01:23,640 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:23,655 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:23,684 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:23,849 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:23,915 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:23,940 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:24,802 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:25,892 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:25,932 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:25,940 - INFO - Found 28 products on page
+2026-02-20 23:01:25,947 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:25,948 - INFO - Page 3: Scraped 28 products (Total: 84)
+2026-02-20 23:01:27,959 - INFO - Processing page 4: https://www.skinnora.com/shop/page/4/
+2026-02-20 23:01:27,959 - INFO - Navigating to: https://www.skinnora.com/shop/page/4/ (attempt 1/3)
+2026-02-20 23:01:31,231 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:31,232 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:31,233 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:31,270 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:31,313 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:31,408 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:32,210 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:34,520 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:34,540 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:34,547 - INFO - Found 28 products on page
+2026-02-20 23:01:34,560 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:34,560 - INFO - Page 4: Scraped 28 products (Total: 112)
+2026-02-20 23:01:36,565 - INFO - Processing page 5: https://www.skinnora.com/shop/page/5/
+2026-02-20 23:01:36,565 - INFO - Navigating to: https://www.skinnora.com/shop/page/5/ (attempt 1/3)
+2026-02-20 23:01:38,667 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:38,667 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:38,668 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:38,668 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:38,755 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:01:38,792 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:40,285 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:40,800 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:40,824 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:40,833 - INFO - Found 28 products on page
+2026-02-20 23:01:40,848 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:40,848 - INFO - Page 5: Scraped 28 products (Total: 140)
+2026-02-20 23:01:42,852 - INFO - Processing page 6: https://www.skinnora.com/shop/page/6/
+2026-02-20 23:01:42,853 - INFO - Navigating to: https://www.skinnora.com/shop/page/6/ (attempt 1/3)
+2026-02-20 23:01:44,853 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:44,854 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:44,855 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:44,952 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:45,057 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:45,145 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:45,878 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:46,667 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:46,691 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:46,702 - INFO - Found 28 products on page
+2026-02-20 23:01:46,711 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:46,711 - INFO - Page 6: Scraped 28 products (Total: 168)
+2026-02-20 23:01:48,725 - INFO - Processing page 7: https://www.skinnora.com/shop/page/7/
+2026-02-20 23:01:48,726 - INFO - Navigating to: https://www.skinnora.com/shop/page/7/ (attempt 1/3)
+2026-02-20 23:01:50,930 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:50,932 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:50,951 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:50,953 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:51,127 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:51,141 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:52,048 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:53,105 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:53,129 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:53,135 - INFO - Found 28 products on page
+2026-02-20 23:01:53,146 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:53,147 - INFO - Page 7: Scraped 28 products (Total: 196)
+2026-02-20 23:01:55,148 - INFO - Processing page 8: https://www.skinnora.com/shop/page/8/
+2026-02-20 23:01:55,149 - INFO - Navigating to: https://www.skinnora.com/shop/page/8/ (attempt 1/3)
+2026-02-20 23:01:57,222 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:57,223 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:57,223 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:57,224 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:57,266 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:57,351 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:01:58,223 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:01:59,125 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:01:59,154 - INFO - Content found with selector: .products li.product
+2026-02-20 23:01:59,162 - INFO - Found 28 products on page
+2026-02-20 23:01:59,172 - INFO - Successfully extracted 28 products
+2026-02-20 23:01:59,173 - INFO - Page 8: Scraped 28 products (Total: 224)
+2026-02-20 23:02:01,176 - INFO - Processing page 9: https://www.skinnora.com/shop/page/9/
+2026-02-20 23:02:01,177 - INFO - Navigating to: https://www.skinnora.com/shop/page/9/ (attempt 1/3)
+2026-02-20 23:02:04,333 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:04,334 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:04,338 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:04,339 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:04,534 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:04,663 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:05,387 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:06,272 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:06,301 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:06,307 - INFO - Found 28 products on page
+2026-02-20 23:02:06,315 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:06,315 - INFO - Page 9: Scraped 28 products (Total: 252)
+2026-02-20 23:02:08,328 - INFO - Processing page 10: https://www.skinnora.com/shop/page/10/
+2026-02-20 23:02:08,329 - INFO - Navigating to: https://www.skinnora.com/shop/page/10/ (attempt 1/3)
+2026-02-20 23:02:11,583 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:11,584 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:11,585 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:11,586 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:11,632 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:11,721 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:12,616 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:13,965 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:13,990 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:17,856 - INFO - Verification screenshot saved for page 10
+2026-02-20 23:02:17,860 - INFO - Found 28 products on page
+2026-02-20 23:02:17,868 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:17,868 - INFO - Page 10: Scraped 28 products (Total: 280)
+2026-02-20 23:02:17,877 - INFO - Progress saved to skinnora_products_20260220_230217.json
+2026-02-20 23:02:19,886 - INFO - Processing page 11: https://www.skinnora.com/shop/page/11/
+2026-02-20 23:02:19,886 - INFO - Navigating to: https://www.skinnora.com/shop/page/11/ (attempt 1/3)
+2026-02-20 23:02:22,698 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:22,698 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:22,699 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:22,720 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:22,855 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:22,867 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:02:23,646 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:24,867 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:24,896 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:24,902 - INFO - Found 28 products on page
+2026-02-20 23:02:24,909 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:24,909 - INFO - Page 11: Scraped 28 products (Total: 308)
+2026-02-20 23:02:26,918 - INFO - Processing page 12: https://www.skinnora.com/shop/page/12/
+2026-02-20 23:02:26,918 - INFO - Navigating to: https://www.skinnora.com/shop/page/12/ (attempt 1/3)
+2026-02-20 23:02:28,967 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:28,968 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:28,993 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:29,000 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:29,116 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:29,207 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:30,093 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:31,117 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:31,152 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:31,160 - INFO - Found 28 products on page
+2026-02-20 23:02:31,166 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:31,166 - INFO - Page 12: Scraped 28 products (Total: 336)
+2026-02-20 23:02:33,170 - INFO - Processing page 13: https://www.skinnora.com/shop/page/13/
+2026-02-20 23:02:33,171 - INFO - Navigating to: https://www.skinnora.com/shop/page/13/ (attempt 1/3)
+2026-02-20 23:02:35,440 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:35,441 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:35,441 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:35,442 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:35,485 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:02:35,486 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:36,298 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:37,883 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:37,910 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:37,918 - INFO - Found 28 products on page
+2026-02-20 23:02:37,928 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:37,928 - INFO - Page 13: Scraped 28 products (Total: 364)
+2026-02-20 23:02:39,933 - INFO - Processing page 14: https://www.skinnora.com/shop/page/14/
+2026-02-20 23:02:39,933 - INFO - Navigating to: https://www.skinnora.com/shop/page/14/ (attempt 1/3)
+2026-02-20 23:02:42,368 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:42,369 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:42,370 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:42,370 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:42,415 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:42,497 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:43,526 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:44,920 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:44,942 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:44,952 - INFO - Found 28 products on page
+2026-02-20 23:02:44,960 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:44,961 - INFO - Page 14: Scraped 28 products (Total: 392)
+2026-02-20 23:02:46,971 - INFO - Processing page 15: https://www.skinnora.com/shop/page/15/
+2026-02-20 23:02:46,972 - INFO - Navigating to: https://www.skinnora.com/shop/page/15/ (attempt 1/3)
+2026-02-20 23:02:49,690 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:49,691 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:49,692 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:49,693 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:49,718 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:49,785 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:50,643 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:51,571 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:51,596 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:51,601 - INFO - Found 28 products on page
+2026-02-20 23:02:51,611 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:51,611 - INFO - Page 15: Scraped 28 products (Total: 420)
+2026-02-20 23:02:53,619 - INFO - Processing page 16: https://www.skinnora.com/shop/page/16/
+2026-02-20 23:02:53,620 - INFO - Navigating to: https://www.skinnora.com/shop/page/16/ (attempt 1/3)
+2026-02-20 23:02:55,945 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:55,946 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:55,947 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:55,948 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:55,949 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:56,006 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:02:57,018 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:02:58,549 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:02:58,592 - INFO - Content found with selector: .products li.product
+2026-02-20 23:02:58,602 - INFO - Found 28 products on page
+2026-02-20 23:02:58,617 - INFO - Successfully extracted 28 products
+2026-02-20 23:02:58,617 - INFO - Page 16: Scraped 28 products (Total: 448)
+2026-02-20 23:03:00,625 - INFO - Processing page 17: https://www.skinnora.com/shop/page/17/
+2026-02-20 23:03:00,626 - INFO - Navigating to: https://www.skinnora.com/shop/page/17/ (attempt 1/3)
+2026-02-20 23:03:04,125 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:04,126 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:04,127 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:04,127 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:04,135 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:04,155 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:05,072 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:06,836 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:06,863 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:06,870 - INFO - Found 28 products on page
+2026-02-20 23:03:06,880 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:06,880 - INFO - Page 17: Scraped 28 products (Total: 476)
+2026-02-20 23:03:08,892 - INFO - Processing page 18: https://www.skinnora.com/shop/page/18/
+2026-02-20 23:03:08,892 - INFO - Navigating to: https://www.skinnora.com/shop/page/18/ (attempt 1/3)
+2026-02-20 23:03:11,498 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:11,500 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:11,500 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:11,501 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:11,547 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:11,593 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:12,482 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:14,052 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:14,086 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:14,094 - INFO - Found 28 products on page
+2026-02-20 23:03:14,105 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:14,105 - INFO - Page 18: Scraped 28 products (Total: 504)
+2026-02-20 23:03:16,109 - INFO - Processing page 19: https://www.skinnora.com/shop/page/19/
+2026-02-20 23:03:16,109 - INFO - Navigating to: https://www.skinnora.com/shop/page/19/ (attempt 1/3)
+2026-02-20 23:03:19,686 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:19,687 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:19,688 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:19,689 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:19,690 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:03:19,732 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:20,513 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:22,484 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:22,509 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:22,517 - INFO - Found 28 products on page
+2026-02-20 23:03:22,528 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:22,529 - INFO - Page 19: Scraped 28 products (Total: 532)
+2026-02-20 23:03:24,541 - INFO - Processing page 20: https://www.skinnora.com/shop/page/20/
+2026-02-20 23:03:24,541 - INFO - Navigating to: https://www.skinnora.com/shop/page/20/ (attempt 1/3)
+2026-02-20 23:03:27,483 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:27,484 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:27,484 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:27,485 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:27,501 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:27,580 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:28,987 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:29,840 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:29,863 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:33,629 - INFO - Verification screenshot saved for page 20
+2026-02-20 23:03:33,632 - INFO - Found 28 products on page
+2026-02-20 23:03:33,643 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:33,643 - INFO - Page 20: Scraped 28 products (Total: 560)
+2026-02-20 23:03:33,656 - INFO - Progress saved to skinnora_products_20260220_230333.json
+2026-02-20 23:03:35,667 - INFO - Processing page 21: https://www.skinnora.com/shop/page/21/
+2026-02-20 23:03:35,668 - INFO - Navigating to: https://www.skinnora.com/shop/page/21/ (attempt 1/3)
+2026-02-20 23:03:39,285 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:39,286 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:39,287 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:39,287 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:39,325 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:39,416 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:40,507 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:41,436 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:41,481 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:41,492 - INFO - Found 28 products on page
+2026-02-20 23:03:41,505 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:41,506 - INFO - Page 21: Scraped 28 products (Total: 588)
+2026-02-20 23:03:43,518 - INFO - Processing page 22: https://www.skinnora.com/shop/page/22/
+2026-02-20 23:03:43,518 - INFO - Navigating to: https://www.skinnora.com/shop/page/22/ (attempt 1/3)
+2026-02-20 23:03:46,267 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:46,268 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:46,269 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:46,270 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:46,271 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:46,324 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:47,287 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:48,435 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:48,470 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:48,479 - INFO - Found 28 products on page
+2026-02-20 23:03:48,492 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:48,493 - INFO - Page 22: Scraped 28 products (Total: 616)
+2026-02-20 23:03:50,504 - INFO - Processing page 23: https://www.skinnora.com/shop/page/23/
+2026-02-20 23:03:50,504 - INFO - Navigating to: https://www.skinnora.com/shop/page/23/ (attempt 1/3)
+2026-02-20 23:03:54,513 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:54,513 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:54,537 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:54,538 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:54,589 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:54,682 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:03:55,582 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:03:56,797 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:03:56,819 - INFO - Content found with selector: .products li.product
+2026-02-20 23:03:56,826 - INFO - Found 28 products on page
+2026-02-20 23:03:56,836 - INFO - Successfully extracted 28 products
+2026-02-20 23:03:56,837 - INFO - Page 23: Scraped 28 products (Total: 644)
+2026-02-20 23:03:58,850 - INFO - Processing page 24: https://www.skinnora.com/shop/page/24/
+2026-02-20 23:03:58,851 - INFO - Navigating to: https://www.skinnora.com/shop/page/24/ (attempt 1/3)
+2026-02-20 23:04:01,271 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:01,272 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:01,273 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:01,274 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:01,701 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:04:01,713 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:03,055 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:04,607 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:04,628 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:04,633 - INFO - Found 28 products on page
+2026-02-20 23:04:04,648 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:04,649 - INFO - Page 24: Scraped 28 products (Total: 672)
+2026-02-20 23:04:06,650 - INFO - Processing page 25: https://www.skinnora.com/shop/page/25/
+2026-02-20 23:04:06,651 - INFO - Navigating to: https://www.skinnora.com/shop/page/25/ (attempt 1/3)
+2026-02-20 23:04:09,109 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:09,110 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:09,111 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:09,111 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:09,243 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:04:09,250 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:10,141 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:11,644 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:11,665 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:11,674 - INFO - Found 28 products on page
+2026-02-20 23:04:11,683 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:11,683 - INFO - Page 25: Scraped 28 products (Total: 700)
+2026-02-20 23:04:13,691 - INFO - Processing page 26: https://www.skinnora.com/shop/page/26/
+2026-02-20 23:04:13,691 - INFO - Navigating to: https://www.skinnora.com/shop/page/26/ (attempt 1/3)
+2026-02-20 23:04:15,998 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:15,999 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:15,999 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:16,000 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:16,131 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:04:16,140 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:17,252 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:18,357 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:18,378 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:18,388 - INFO - Found 28 products on page
+2026-02-20 23:04:18,398 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:18,399 - INFO - Page 26: Scraped 28 products (Total: 728)
+2026-02-20 23:04:20,406 - INFO - Processing page 27: https://www.skinnora.com/shop/page/27/
+2026-02-20 23:04:20,406 - INFO - Navigating to: https://www.skinnora.com/shop/page/27/ (attempt 1/3)
+2026-02-20 23:04:22,762 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:22,763 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:22,764 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:22,764 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:23,127 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:23,221 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:24,060 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:24,977 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:24,997 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:25,003 - INFO - Found 28 products on page
+2026-02-20 23:04:25,010 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:25,010 - INFO - Page 27: Scraped 28 products (Total: 756)
+2026-02-20 23:04:27,018 - INFO - Processing page 28: https://www.skinnora.com/shop/page/28/
+2026-02-20 23:04:27,018 - INFO - Navigating to: https://www.skinnora.com/shop/page/28/ (attempt 1/3)
+2026-02-20 23:04:29,913 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:29,914 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:29,914 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:29,915 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:29,970 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:30,053 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:30,981 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:31,798 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:31,823 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:31,832 - INFO - Found 28 products on page
+2026-02-20 23:04:31,843 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:31,844 - INFO - Page 28: Scraped 28 products (Total: 784)
+2026-02-20 23:04:33,855 - INFO - Processing page 29: https://www.skinnora.com/shop/page/29/
+2026-02-20 23:04:33,855 - INFO - Navigating to: https://www.skinnora.com/shop/page/29/ (attempt 1/3)
+2026-02-20 23:04:36,042 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:36,043 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:36,049 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:36,050 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:36,555 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:36,556 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:37,714 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:38,768 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:38,801 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:38,810 - INFO - Found 28 products on page
+2026-02-20 23:04:38,819 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:38,820 - INFO - Page 29: Scraped 28 products (Total: 812)
+2026-02-20 23:04:40,830 - INFO - Processing page 30: https://www.skinnora.com/shop/page/30/
+2026-02-20 23:04:40,830 - INFO - Navigating to: https://www.skinnora.com/shop/page/30/ (attempt 1/3)
+2026-02-20 23:04:43,385 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:43,386 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:43,386 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:43,387 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:43,416 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:43,417 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:44,160 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:45,492 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:45,525 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:45,668 - INFO - Verification screenshot saved for page 30
+2026-02-20 23:04:45,673 - INFO - Found 28 products on page
+2026-02-20 23:04:45,688 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:45,688 - INFO - Page 30: Scraped 28 products (Total: 840)
+2026-02-20 23:04:45,714 - INFO - Progress saved to skinnora_products_20260220_230445.json
+2026-02-20 23:04:47,715 - INFO - Processing page 31: https://www.skinnora.com/shop/page/31/
+2026-02-20 23:04:47,716 - INFO - Navigating to: https://www.skinnora.com/shop/page/31/ (attempt 1/3)
+2026-02-20 23:04:49,977 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:49,978 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:49,978 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:49,979 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:50,022 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:50,043 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:51,153 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:04:52,419 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:04:52,454 - INFO - Content found with selector: .products li.product
+2026-02-20 23:04:52,463 - INFO - Found 28 products on page
+2026-02-20 23:04:52,475 - INFO - Successfully extracted 28 products
+2026-02-20 23:04:52,476 - INFO - Page 31: Scraped 28 products (Total: 868)
+2026-02-20 23:04:54,485 - INFO - Processing page 32: https://www.skinnora.com/shop/page/32/
+2026-02-20 23:04:54,486 - INFO - Navigating to: https://www.skinnora.com/shop/page/32/ (attempt 1/3)
+2026-02-20 23:04:56,420 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:56,421 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:56,446 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:56,485 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:56,800 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:04:56,810 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:04:57,538 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:00,030 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:00,058 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:00,064 - INFO - Found 28 products on page
+2026-02-20 23:05:00,073 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:00,074 - INFO - Page 32: Scraped 28 products (Total: 896)
+2026-02-20 23:05:02,080 - INFO - Processing page 33: https://www.skinnora.com/shop/page/33/
+2026-02-20 23:05:02,081 - INFO - Navigating to: https://www.skinnora.com/shop/page/33/ (attempt 1/3)
+2026-02-20 23:05:05,223 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:05,224 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:05,485 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:05,486 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:05,542 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:05,556 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:06,264 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:07,710 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:07,736 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:07,743 - INFO - Found 28 products on page
+2026-02-20 23:05:07,753 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:07,753 - INFO - Page 33: Scraped 28 products (Total: 924)
+2026-02-20 23:05:09,758 - INFO - Processing page 34: https://www.skinnora.com/shop/page/34/
+2026-02-20 23:05:09,759 - INFO - Navigating to: https://www.skinnora.com/shop/page/34/ (attempt 1/3)
+2026-02-20 23:05:12,878 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:12,879 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:12,905 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:12,929 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:13,329 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:13,387 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:13,937 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:15,193 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:15,235 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:15,244 - INFO - Found 28 products on page
+2026-02-20 23:05:15,258 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:15,258 - INFO - Page 34: Scraped 28 products (Total: 952)
+2026-02-20 23:05:17,263 - INFO - Processing page 35: https://www.skinnora.com/shop/page/35/
+2026-02-20 23:05:17,264 - INFO - Navigating to: https://www.skinnora.com/shop/page/35/ (attempt 1/3)
+2026-02-20 23:05:20,120 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:20,125 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:20,229 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:20,229 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:20,544 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:20,627 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:21,196 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:22,783 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:22,807 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:22,815 - INFO - Found 28 products on page
+2026-02-20 23:05:22,825 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:22,826 - INFO - Page 35: Scraped 28 products (Total: 980)
+2026-02-20 23:05:24,835 - INFO - Processing page 36: https://www.skinnora.com/shop/page/36/
+2026-02-20 23:05:24,835 - INFO - Navigating to: https://www.skinnora.com/shop/page/36/ (attempt 1/3)
+2026-02-20 23:05:28,259 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:28,260 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:28,260 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:28,370 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:28,670 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:28,711 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:29,647 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:30,777 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:30,818 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:30,828 - INFO - Found 28 products on page
+2026-02-20 23:05:30,840 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:30,841 - INFO - Page 36: Scraped 28 products (Total: 1008)
+2026-02-20 23:05:32,847 - INFO - Processing page 37: https://www.skinnora.com/shop/page/37/
+2026-02-20 23:05:32,847 - INFO - Navigating to: https://www.skinnora.com/shop/page/37/ (attempt 1/3)
+2026-02-20 23:05:35,304 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:35,305 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:35,308 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:35,310 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:35,316 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:35,317 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:36,001 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:37,433 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:37,464 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:37,475 - INFO - Found 28 products on page
+2026-02-20 23:05:37,487 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:37,488 - INFO - Page 37: Scraped 28 products (Total: 1036)
+2026-02-20 23:05:39,498 - INFO - Processing page 38: https://www.skinnora.com/shop/page/38/
+2026-02-20 23:05:39,498 - INFO - Navigating to: https://www.skinnora.com/shop/page/38/ (attempt 1/3)
+2026-02-20 23:05:42,762 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:42,763 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:42,796 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:42,797 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:43,177 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:05:43,179 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:44,149 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:45,357 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:45,386 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:45,394 - INFO - Found 28 products on page
+2026-02-20 23:05:45,403 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:45,404 - INFO - Page 38: Scraped 28 products (Total: 1064)
+2026-02-20 23:05:47,419 - INFO - Processing page 39: https://www.skinnora.com/shop/page/39/
+2026-02-20 23:05:47,420 - INFO - Navigating to: https://www.skinnora.com/shop/page/39/ (attempt 1/3)
+2026-02-20 23:05:50,370 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:50,407 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:50,423 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:50,599 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:50,710 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:50,719 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:05:51,515 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:05:53,110 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:05:53,129 - INFO - Content found with selector: .products li.product
+2026-02-20 23:05:53,138 - INFO - Found 28 products on page
+2026-02-20 23:05:53,145 - INFO - Successfully extracted 28 products
+2026-02-20 23:05:53,145 - INFO - Page 39: Scraped 28 products (Total: 1092)
+2026-02-20 23:05:55,150 - INFO - Processing page 40: https://www.skinnora.com/shop/page/40/
+2026-02-20 23:05:55,150 - INFO - Navigating to: https://www.skinnora.com/shop/page/40/ (attempt 1/3)
+2026-02-20 23:05:58,808 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:58,814 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:58,986 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:58,988 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:59,134 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:59,143 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:05:59,867 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:01,770 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:01,793 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:01,905 - INFO - Verification screenshot saved for page 40
+2026-02-20 23:06:01,909 - INFO - Found 28 products on page
+2026-02-20 23:06:01,916 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:01,916 - INFO - Page 40: Scraped 28 products (Total: 1120)
+2026-02-20 23:06:01,937 - INFO - Progress saved to skinnora_products_20260220_230601.json
+2026-02-20 23:06:03,944 - INFO - Processing page 41: https://www.skinnora.com/shop/page/41/
+2026-02-20 23:06:03,944 - INFO - Navigating to: https://www.skinnora.com/shop/page/41/ (attempt 1/3)
+2026-02-20 23:06:06,618 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:06,619 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:06,620 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:06,620 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:06,725 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:06,797 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:07,500 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:08,797 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:08,820 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:08,825 - INFO - Found 28 products on page
+2026-02-20 23:06:08,834 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:08,834 - INFO - Page 41: Scraped 28 products (Total: 1148)
+2026-02-20 23:06:10,849 - INFO - Processing page 42: https://www.skinnora.com/shop/page/42/
+2026-02-20 23:06:10,849 - INFO - Navigating to: https://www.skinnora.com/shop/page/42/ (attempt 1/3)
+2026-02-20 23:06:13,814 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:13,822 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:14,079 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:14,080 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:14,215 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:14,216 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:15,002 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:16,247 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:16,289 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:16,295 - INFO - Found 28 products on page
+2026-02-20 23:06:16,305 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:16,306 - INFO - Page 42: Scraped 28 products (Total: 1176)
+2026-02-20 23:06:18,320 - INFO - Processing page 43: https://www.skinnora.com/shop/page/43/
+2026-02-20 23:06:18,321 - INFO - Navigating to: https://www.skinnora.com/shop/page/43/ (attempt 1/3)
+2026-02-20 23:06:21,816 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:21,828 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:21,925 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:21,926 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:22,253 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:22,320 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:22,892 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:24,866 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:24,895 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:24,902 - INFO - Found 28 products on page
+2026-02-20 23:06:24,912 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:24,912 - INFO - Page 43: Scraped 28 products (Total: 1204)
+2026-02-20 23:06:26,927 - INFO - Processing page 44: https://www.skinnora.com/shop/page/44/
+2026-02-20 23:06:26,928 - INFO - Navigating to: https://www.skinnora.com/shop/page/44/ (attempt 1/3)
+2026-02-20 23:06:29,187 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:29,216 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:29,271 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:29,271 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:29,599 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:29,610 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:30,309 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:31,718 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:31,744 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:31,751 - INFO - Found 28 products on page
+2026-02-20 23:06:31,760 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:31,760 - INFO - Page 44: Scraped 28 products (Total: 1232)
+2026-02-20 23:06:33,773 - INFO - Processing page 45: https://www.skinnora.com/shop/page/45/
+2026-02-20 23:06:33,774 - INFO - Navigating to: https://www.skinnora.com/shop/page/45/ (attempt 1/3)
+2026-02-20 23:06:36,444 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:36,475 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:36,661 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:36,662 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:36,758 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:36,779 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:37,603 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:38,842 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:38,874 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:38,881 - INFO - Found 28 products on page
+2026-02-20 23:06:38,889 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:38,889 - INFO - Page 45: Scraped 28 products (Total: 1260)
+2026-02-20 23:06:40,904 - INFO - Processing page 46: https://www.skinnora.com/shop/page/46/
+2026-02-20 23:06:40,905 - INFO - Navigating to: https://www.skinnora.com/shop/page/46/ (attempt 1/3)
+2026-02-20 23:06:43,188 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:43,189 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:43,190 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:43,190 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:43,269 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:43,320 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:44,171 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:45,579 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:45,613 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:45,619 - INFO - Found 28 products on page
+2026-02-20 23:06:45,630 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:45,630 - INFO - Page 46: Scraped 28 products (Total: 1288)
+2026-02-20 23:06:47,639 - INFO - Processing page 47: https://www.skinnora.com/shop/page/47/
+2026-02-20 23:06:47,639 - INFO - Navigating to: https://www.skinnora.com/shop/page/47/ (attempt 1/3)
+2026-02-20 23:06:50,368 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:50,420 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:50,421 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:50,443 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:50,684 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:50,715 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:51,534 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:52,951 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:52,979 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:52,988 - INFO - Found 28 products on page
+2026-02-20 23:06:52,997 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:52,997 - INFO - Page 47: Scraped 28 products (Total: 1316)
+2026-02-20 23:06:55,000 - INFO - Processing page 48: https://www.skinnora.com/shop/page/48/
+2026-02-20 23:06:55,000 - INFO - Navigating to: https://www.skinnora.com/shop/page/48/ (attempt 1/3)
+2026-02-20 23:06:57,650 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:57,656 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:57,929 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:57,930 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:58,040 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:58,197 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:06:58,874 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:06:59,884 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:06:59,907 - INFO - Content found with selector: .products li.product
+2026-02-20 23:06:59,912 - INFO - Found 28 products on page
+2026-02-20 23:06:59,923 - INFO - Successfully extracted 28 products
+2026-02-20 23:06:59,923 - INFO - Page 48: Scraped 28 products (Total: 1344)
+2026-02-20 23:07:01,929 - INFO - Processing page 49: https://www.skinnora.com/shop/page/49/
+2026-02-20 23:07:01,929 - INFO - Navigating to: https://www.skinnora.com/shop/page/49/ (attempt 1/3)
+2026-02-20 23:07:05,627 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:05,628 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:05,641 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:05,642 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:06,006 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:07:06,019 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:06,685 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:07,865 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:07,891 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:07,900 - INFO - Found 28 products on page
+2026-02-20 23:07:07,909 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:07,909 - INFO - Page 49: Scraped 28 products (Total: 1372)
+2026-02-20 23:07:09,912 - INFO - Processing page 50: https://www.skinnora.com/shop/page/50/
+2026-02-20 23:07:09,912 - INFO - Navigating to: https://www.skinnora.com/shop/page/50/ (attempt 1/3)
+2026-02-20 23:07:11,951 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:11,952 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:12,042 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:12,234 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:12,271 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:12,328 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:13,263 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:15,065 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:15,096 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:15,202 - INFO - Verification screenshot saved for page 50
+2026-02-20 23:07:15,208 - INFO - Found 28 products on page
+2026-02-20 23:07:15,216 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:15,216 - INFO - Page 50: Scraped 28 products (Total: 1400)
+2026-02-20 23:07:15,247 - INFO - Progress saved to skinnora_products_20260220_230715.json
+2026-02-20 23:07:17,258 - INFO - Processing page 51: https://www.skinnora.com/shop/page/51/
+2026-02-20 23:07:17,259 - INFO - Navigating to: https://www.skinnora.com/shop/page/51/ (attempt 1/3)
+2026-02-20 23:07:19,447 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:19,448 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:19,812 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:19,813 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:19,856 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:19,880 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:20,623 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:22,406 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:22,426 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:22,432 - INFO - Found 28 products on page
+2026-02-20 23:07:22,440 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:22,441 - INFO - Page 51: Scraped 28 products (Total: 1428)
+2026-02-20 23:07:24,446 - INFO - Processing page 52: https://www.skinnora.com/shop/page/52/
+2026-02-20 23:07:24,446 - INFO - Navigating to: https://www.skinnora.com/shop/page/52/ (attempt 1/3)
+2026-02-20 23:07:26,541 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:26,574 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:26,772 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:26,773 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:26,814 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:26,917 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:27,636 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:29,340 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:29,375 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:29,382 - INFO - Found 28 products on page
+2026-02-20 23:07:29,392 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:29,393 - INFO - Page 52: Scraped 28 products (Total: 1456)
+2026-02-20 23:07:31,402 - INFO - Processing page 53: https://www.skinnora.com/shop/page/53/
+2026-02-20 23:07:31,402 - INFO - Navigating to: https://www.skinnora.com/shop/page/53/ (attempt 1/3)
+2026-02-20 23:07:33,738 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:33,747 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:33,803 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:33,818 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:34,229 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:34,266 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:34,847 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:36,714 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:36,748 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:36,757 - INFO - Found 28 products on page
+2026-02-20 23:07:36,771 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:36,771 - INFO - Page 53: Scraped 28 products (Total: 1484)
+2026-02-20 23:07:38,783 - INFO - Processing page 54: https://www.skinnora.com/shop/page/54/
+2026-02-20 23:07:38,784 - INFO - Navigating to: https://www.skinnora.com/shop/page/54/ (attempt 1/3)
+2026-02-20 23:07:41,170 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:41,171 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:41,208 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:41,224 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:41,620 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:41,628 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:42,372 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:44,253 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:44,274 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:44,283 - INFO - Found 28 products on page
+2026-02-20 23:07:44,294 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:44,294 - INFO - Page 54: Scraped 28 products (Total: 1512)
+2026-02-20 23:07:46,305 - INFO - Processing page 55: https://www.skinnora.com/shop/page/55/
+2026-02-20 23:07:46,305 - INFO - Navigating to: https://www.skinnora.com/shop/page/55/ (attempt 1/3)
+2026-02-20 23:07:48,405 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:48,406 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:48,652 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:48,653 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:48,690 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:48,699 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:49,596 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:51,649 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:51,669 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:51,679 - INFO - Found 28 products on page
+2026-02-20 23:07:51,686 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:51,686 - INFO - Page 55: Scraped 28 products (Total: 1540)
+2026-02-20 23:07:53,687 - INFO - Processing page 56: https://www.skinnora.com/shop/page/56/
+2026-02-20 23:07:53,687 - INFO - Navigating to: https://www.skinnora.com/shop/page/56/ (attempt 1/3)
+2026-02-20 23:07:55,833 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:55,907 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:55,907 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:56,085 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:56,125 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:56,205 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:07:56,903 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:07:58,529 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:07:58,546 - INFO - Content found with selector: .products li.product
+2026-02-20 23:07:58,556 - INFO - Found 28 products on page
+2026-02-20 23:07:58,564 - INFO - Successfully extracted 28 products
+2026-02-20 23:07:58,564 - INFO - Page 56: Scraped 28 products (Total: 1568)
+2026-02-20 23:08:00,565 - INFO - Processing page 57: https://www.skinnora.com/shop/page/57/
+2026-02-20 23:08:00,565 - INFO - Navigating to: https://www.skinnora.com/shop/page/57/ (attempt 1/3)
+2026-02-20 23:08:04,854 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:04,856 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:04,910 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:04,910 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:05,181 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:05,287 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:05,956 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:07,842 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:07,865 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:07,874 - INFO - Found 28 products on page
+2026-02-20 23:08:07,880 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:07,881 - INFO - Page 57: Scraped 28 products (Total: 1596)
+2026-02-20 23:08:09,895 - INFO - Processing page 58: https://www.skinnora.com/shop/page/58/
+2026-02-20 23:08:09,895 - INFO - Navigating to: https://www.skinnora.com/shop/page/58/ (attempt 1/3)
+2026-02-20 23:08:12,219 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:12,220 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:12,220 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:12,221 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:12,335 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:12,462 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:13,125 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:14,587 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:14,620 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:14,631 - INFO - Found 28 products on page
+2026-02-20 23:08:14,644 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:14,644 - INFO - Page 58: Scraped 28 products (Total: 1624)
+2026-02-20 23:08:16,655 - INFO - Processing page 59: https://www.skinnora.com/shop/page/59/
+2026-02-20 23:08:16,656 - INFO - Navigating to: https://www.skinnora.com/shop/page/59/ (attempt 1/3)
+2026-02-20 23:08:18,741 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:18,742 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:18,744 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:18,744 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:18,849 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:18,859 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:08:19,846 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:20,653 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:20,686 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:20,694 - INFO - Found 28 products on page
+2026-02-20 23:08:20,704 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:20,704 - INFO - Page 59: Scraped 28 products (Total: 1652)
+2026-02-20 23:08:22,719 - INFO - Processing page 60: https://www.skinnora.com/shop/page/60/
+2026-02-20 23:08:22,719 - INFO - Navigating to: https://www.skinnora.com/shop/page/60/ (attempt 1/3)
+2026-02-20 23:08:24,819 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:24,820 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:24,996 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:24,997 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:25,080 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:25,095 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:25,921 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:26,968 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:27,000 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:27,160 - INFO - Verification screenshot saved for page 60
+2026-02-20 23:08:27,164 - INFO - Found 28 products on page
+2026-02-20 23:08:27,176 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:27,176 - INFO - Page 60: Scraped 28 products (Total: 1680)
+2026-02-20 23:08:27,216 - INFO - Progress saved to skinnora_products_20260220_230827.json
+2026-02-20 23:08:29,219 - INFO - Processing page 61: https://www.skinnora.com/shop/page/61/
+2026-02-20 23:08:29,219 - INFO - Navigating to: https://www.skinnora.com/shop/page/61/ (attempt 1/3)
+2026-02-20 23:08:31,823 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:31,824 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:31,824 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:31,867 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:31,880 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:31,950 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:32,670 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:33,929 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:33,959 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:33,964 - INFO - Found 28 products on page
+2026-02-20 23:08:33,974 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:33,974 - INFO - Page 61: Scraped 28 products (Total: 1708)
+2026-02-20 23:08:35,980 - INFO - Processing page 62: https://www.skinnora.com/shop/page/62/
+2026-02-20 23:08:35,980 - INFO - Navigating to: https://www.skinnora.com/shop/page/62/ (attempt 1/3)
+2026-02-20 23:08:38,414 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:38,414 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:38,415 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:38,416 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:38,477 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:38,498 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:39,354 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:41,507 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:41,539 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:41,545 - INFO - Found 28 products on page
+2026-02-20 23:08:41,552 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:41,552 - INFO - Page 62: Scraped 28 products (Total: 1736)
+2026-02-20 23:08:43,558 - INFO - Processing page 63: https://www.skinnora.com/shop/page/63/
+2026-02-20 23:08:43,558 - INFO - Navigating to: https://www.skinnora.com/shop/page/63/ (attempt 1/3)
+2026-02-20 23:08:46,253 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:46,254 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:46,255 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:46,256 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:46,384 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:46,398 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:47,067 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:48,826 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:48,855 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:48,868 - INFO - Found 28 products on page
+2026-02-20 23:08:48,881 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:48,881 - INFO - Page 63: Scraped 28 products (Total: 1764)
+2026-02-20 23:08:50,893 - INFO - Processing page 64: https://www.skinnora.com/shop/page/64/
+2026-02-20 23:08:50,893 - INFO - Navigating to: https://www.skinnora.com/shop/page/64/ (attempt 1/3)
+2026-02-20 23:08:53,520 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:53,521 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:53,724 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:53,726 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:53,773 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:53,842 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:08:54,715 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:08:56,765 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:08:56,787 - INFO - Content found with selector: .products li.product
+2026-02-20 23:08:56,795 - INFO - Found 28 products on page
+2026-02-20 23:08:56,803 - INFO - Successfully extracted 28 products
+2026-02-20 23:08:56,803 - INFO - Page 64: Scraped 28 products (Total: 1792)
+2026-02-20 23:08:58,816 - INFO - Processing page 65: https://www.skinnora.com/shop/page/65/
+2026-02-20 23:08:58,817 - INFO - Navigating to: https://www.skinnora.com/shop/page/65/ (attempt 1/3)
+2026-02-20 23:09:01,382 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:01,408 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:01,437 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:01,443 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:01,726 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:01,942 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:02,571 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:09:04,826 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:09:04,872 - INFO - Content found with selector: .products li.product
+2026-02-20 23:09:04,882 - INFO - Found 28 products on page
+2026-02-20 23:09:04,898 - INFO - Successfully extracted 28 products
+2026-02-20 23:09:04,898 - INFO - Page 65: Scraped 28 products (Total: 1820)
+2026-02-20 23:09:06,900 - INFO - Processing page 66: https://www.skinnora.com/shop/page/66/
+2026-02-20 23:09:06,901 - INFO - Navigating to: https://www.skinnora.com/shop/page/66/ (attempt 1/3)
+2026-02-20 23:09:09,926 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:09,943 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:10,072 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:10,072 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:10,376 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:10,380 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CONNECTION_RESET
+2026-02-20 23:09:11,049 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:09:12,688 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:09:12,719 - INFO - Content found with selector: .products li.product
+2026-02-20 23:09:12,726 - INFO - Found 28 products on page
+2026-02-20 23:09:12,736 - INFO - Successfully extracted 28 products
+2026-02-20 23:09:12,736 - INFO - Page 66: Scraped 28 products (Total: 1848)
+2026-02-20 23:09:14,742 - INFO - Processing page 67: https://www.skinnora.com/shop/page/67/
+2026-02-20 23:09:14,742 - INFO - Navigating to: https://www.skinnora.com/shop/page/67/ (attempt 1/3)
+2026-02-20 23:09:17,914 - WARNING - Request failed: https://analytics.ahrefs.com/analytics.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:17,915 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=GT-T5P4WF5 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:17,915 - WARNING - Request failed: https://www.googletagmanager.com/gtag/js?id=AW-17017495291 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:17,943 - WARNING - Request failed: https://www.googletagmanager.com/gtm.js?id=GTM-NKC7PJ56 - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:18,032 - WARNING - Request failed: https://connect.facebook.net/en_US/fbevents.js - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:18,141 - WARNING - Request failed: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D1PP08BC77UAUPFDG4PG&lib=ttq - net::ERR_CERT_AUTHORITY_INVALID
+2026-02-20 23:09:19,035 - WARNING - Request failed: https://wholesale.skinnora.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2 - net::ERR_NAME_NOT_RESOLVED
+2026-02-20 23:09:19,855 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:09:19,874 - INFO - Content found with selector: .products li.product
+2026-02-20 23:09:19,885 - INFO - Found 19 products on page
+2026-02-20 23:09:19,890 - INFO - Successfully extracted 19 products
+2026-02-20 23:09:19,890 - INFO - Page 67: Scraped 19 products (Total: 1867)
+2026-02-20 23:09:21,933 - INFO - Progress saved to skinnora_products_20260220_230921.json
+2026-02-20 23:09:21,933 - INFO - ============================================================
+2026-02-20 23:09:21,933 - INFO - SCRAPE COMPLETED
+2026-02-20 23:09:21,934 - INFO - ============================================================
+2026-02-20 23:09:21,934 - INFO - Total products scraped: 1867
+2026-02-20 23:09:21,934 - INFO - Pages processed: 67
+2026-02-20 23:09:21,934 - INFO - Failed pages: 0
+2026-02-20 23:09:21,934 - INFO - Data saved to: skinnora_products_20260220_230921.json
+2026-02-20 23:09:21,935 - INFO - Products on sale: 1853
+2026-02-20 23:09:21,935 - INFO - Regular price products: 14
