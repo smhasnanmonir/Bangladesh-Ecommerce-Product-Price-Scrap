@@ -1,0 +1,919 @@
+2026-02-20 23:46:56,928 - INFO - ============================================================
+2026-02-20 23:46:56,929 - INFO - TOKBD SCRAPER - ENHANCED VERSION
+2026-02-20 23:46:56,929 - INFO - ============================================================
+2026-02-20 23:46:58,364 - INFO - Running full scrape...
+2026-02-20 23:47:00,031 - INFO - Starting scrape of TOKBD...
+2026-02-20 23:47:00,031 - INFO - Processing page 1: https://tokbd.com/products?page=1
+2026-02-20 23:47:00,032 - INFO - Navigating to: https://tokbd.com/products?page=1 (attempt 1/3)
+2026-02-20 23:47:01,451 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:01,867 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:02,500 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:02,531 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:03,540 - INFO - Found 12 product cards on page
+2026-02-20 23:47:03,551 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:03,552 - INFO - Page 1: Scraped 12 products (Total: 12)
+2026-02-20 23:47:05,562 - INFO - Processing page 2: https://tokbd.com/products?page=2
+2026-02-20 23:47:05,563 - INFO - Navigating to: https://tokbd.com/products?page=2 (attempt 1/3)
+2026-02-20 23:47:06,284 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:30,885 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:47:30,886 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:30,886 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:30,887 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:30,887 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:30,888 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:30,888 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:30,889 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:30,914 - WARNING - Request failed: https://tokbd.com/products?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:30,915 - WARNING - Request failed: https://tokbd.com/products?page=3&_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:31,170 - WARNING - Request failed: https://tokbd.com/products?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:31,170 - WARNING - Request failed: https://tokbd.com/products?page=2&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:31,171 - WARNING - Request failed: https://tokbd.com/products?page=3&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:31,171 - WARNING - Request failed: https://tokbd.com/products?page=49&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:31,682 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:31,703 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:32,712 - INFO - Found 12 product cards on page
+2026-02-20 23:47:32,717 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:32,718 - INFO - Page 2: Scraped 12 products (Total: 24)
+2026-02-20 23:47:34,725 - INFO - Processing page 3: https://tokbd.com/products?page=3
+2026-02-20 23:47:34,725 - INFO - Navigating to: https://tokbd.com/products?page=3 (attempt 1/3)
+2026-02-20 23:47:35,056 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:39,611 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:47:39,612 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:39,613 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:39,613 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:39,613 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:39,614 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:47:39,614 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:39,614 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:39,614 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:40,116 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:40,141 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:41,146 - INFO - Found 12 product cards on page
+2026-02-20 23:47:41,149 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:41,149 - INFO - Page 3: Scraped 12 products (Total: 36)
+2026-02-20 23:47:43,155 - INFO - Processing page 4: https://tokbd.com/products?page=4
+2026-02-20 23:47:43,156 - INFO - Navigating to: https://tokbd.com/products?page=4 (attempt 1/3)
+2026-02-20 23:47:43,860 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:44,209 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:44,290 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:44,400 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:45,221 - INFO - Found 12 product cards on page
+2026-02-20 23:47:45,225 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:45,225 - INFO - Page 4: Scraped 12 products (Total: 48)
+2026-02-20 23:47:47,230 - INFO - Processing page 5: https://tokbd.com/products?page=5
+2026-02-20 23:47:47,230 - INFO - Navigating to: https://tokbd.com/products?page=5 (attempt 1/3)
+2026-02-20 23:47:47,352 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:47,353 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:47,353 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:47,353 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:47:47,354 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:47,354 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:47,354 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:47:47,355 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:47,355 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:47,997 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:48,217 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:48,348 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:48,555 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:49,235 - INFO - Found 12 product cards on page
+2026-02-20 23:47:49,246 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:49,246 - INFO - Page 5: Scraped 12 products (Total: 60)
+2026-02-20 23:47:49,250 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:47:51,266 - INFO - Processing page 6: https://tokbd.com/products?page=6
+2026-02-20 23:47:51,266 - INFO - Navigating to: https://tokbd.com/products?page=6 (attempt 1/3)
+2026-02-20 23:47:51,396 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:51,396 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:47:51,397 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:51,397 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:51,398 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:51,398 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:47:51,399 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:51,399 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:51,399 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:51,998 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:52,333 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:52,508 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:53,343 - INFO - Found 12 product cards on page
+2026-02-20 23:47:53,350 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:53,351 - INFO - Page 6: Scraped 12 products (Total: 72)
+2026-02-20 23:47:55,365 - INFO - Processing page 7: https://tokbd.com/products?page=7
+2026-02-20 23:47:55,365 - INFO - Navigating to: https://tokbd.com/products?page=7 (attempt 1/3)
+2026-02-20 23:47:55,499 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:55,499 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:55,500 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:55,500 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:47:55,500 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:55,501 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:47:55,501 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:55,501 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:55,502 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:56,081 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:47:56,417 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:47:56,478 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:56,710 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:47:57,435 - INFO - Found 12 product cards on page
+2026-02-20 23:47:57,445 - INFO - Successfully extracted 12 products
+2026-02-20 23:47:57,445 - INFO - Page 7: Scraped 12 products (Total: 84)
+2026-02-20 23:47:59,449 - INFO - Processing page 8: https://tokbd.com/products?page=8
+2026-02-20 23:47:59,449 - INFO - Navigating to: https://tokbd.com/products?page=8 (attempt 1/3)
+2026-02-20 23:47:59,585 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:59,586 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:59,586 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:47:59,587 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:47:59,587 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:47:59,588 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:47:59,588 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:47:59,589 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:47:59,590 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:00,184 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:48:00,407 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:48:00,706 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:48:01,423 - INFO - Found 12 product cards on page
+2026-02-20 23:48:01,430 - INFO - Successfully extracted 12 products
+2026-02-20 23:48:01,430 - INFO - Page 8: Scraped 12 products (Total: 96)
+2026-02-20 23:48:03,436 - INFO - Processing page 9: https://tokbd.com/products?page=9
+2026-02-20 23:48:03,437 - INFO - Navigating to: https://tokbd.com/products?page=9 (attempt 1/3)
+2026-02-20 23:48:03,960 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:48:03,960 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:03,961 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:48:03,961 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:03,962 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:48:03,962 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:03,963 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:03,963 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:48:03,964 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:05,319 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:48:13,420 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:13,421 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:48:13,421 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:13,422 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:48:13,422 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:48:13,422 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:48:13,423 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:13,423 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:13,423 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:13,928 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:48:13,942 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:48:14,947 - INFO - Found 12 product cards on page
+2026-02-20 23:48:14,951 - INFO - Successfully extracted 12 products
+2026-02-20 23:48:14,951 - INFO - Page 9: Scraped 12 products (Total: 108)
+2026-02-20 23:48:16,952 - INFO - Processing page 10: https://tokbd.com/products?page=10
+2026-02-20 23:48:16,953 - INFO - Navigating to: https://tokbd.com/products?page=10 (attempt 1/3)
+2026-02-20 23:48:19,084 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:48:22,139 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:22,140 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:48:22,141 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:22,141 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:48:22,142 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:48:22,142 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:48:22,142 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:22,143 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:22,143 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:22,642 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:48:22,656 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:48:23,928 - INFO - Verification screenshot saved for page 10
+2026-02-20 23:48:24,943 - INFO - Found 12 product cards on page
+2026-02-20 23:48:24,947 - INFO - Successfully extracted 12 products
+2026-02-20 23:48:24,947 - INFO - Page 10: Scraped 12 products (Total: 120)
+2026-02-20 23:48:24,949 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:48:26,961 - INFO - Processing page 11: https://tokbd.com/products?page=11
+2026-02-20 23:48:26,962 - INFO - Navigating to: https://tokbd.com/products?page=11 (attempt 1/3)
+2026-02-20 23:48:34,374 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:48:41,106 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:41,108 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:48:41,108 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:41,109 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:48:41,109 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:48:41,109 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:48:41,109 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:41,110 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:41,110 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:41,617 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:48:41,634 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:48:42,648 - INFO - Found 12 product cards on page
+2026-02-20 23:48:42,652 - INFO - Successfully extracted 12 products
+2026-02-20 23:48:42,652 - INFO - Page 11: Scraped 12 products (Total: 132)
+2026-02-20 23:48:44,659 - INFO - Processing page 12: https://tokbd.com/products?page=12
+2026-02-20 23:48:44,660 - INFO - Navigating to: https://tokbd.com/products?page=12 (attempt 1/3)
+2026-02-20 23:48:45,411 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:55,337 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:48:55,338 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:48:55,338 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:55,339 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:48:55,339 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:48:55,340 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:48:55,340 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:48:55,341 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:55,341 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:48:55,841 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:48:55,855 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:48:56,868 - INFO - Found 12 product cards on page
+2026-02-20 23:48:56,872 - INFO - Successfully extracted 12 products
+2026-02-20 23:48:56,873 - INFO - Page 12: Scraped 12 products (Total: 144)
+2026-02-20 23:48:58,874 - INFO - Processing page 13: https://tokbd.com/products?page=13
+2026-02-20 23:48:58,874 - INFO - Navigating to: https://tokbd.com/products?page=13 (attempt 1/3)
+2026-02-20 23:49:00,840 - ERROR - Page error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+2026-02-20 23:49:02,075 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:03,470 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:49:03,472 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:49:03,472 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:03,473 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:49:03,473 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:49:03,474 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:49:03,474 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:03,475 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:03,475 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:06,851 - WARNING - Request failed: https://tokbd.com/products?page=14&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:49:06,852 - WARNING - Request failed: https://tokbd.com/products?page=49&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:49:08,217 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:49:09,099 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:49:09,113 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:49:10,131 - INFO - Found 12 product cards on page
+2026-02-20 23:49:10,135 - INFO - Successfully extracted 12 products
+2026-02-20 23:49:10,135 - INFO - Page 13: Scraped 12 products (Total: 156)
+2026-02-20 23:49:12,149 - INFO - Processing page 14: https://tokbd.com/products?page=14
+2026-02-20 23:49:12,149 - INFO - Navigating to: https://tokbd.com/products?page=14 (attempt 1/3)
+2026-02-20 23:49:22,753 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:49:22,754 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:22,755 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:49:22,755 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:49:22,756 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:22,756 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:22,756 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:23,255 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:49:23,268 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:49:24,276 - INFO - Found 12 product cards on page
+2026-02-20 23:49:24,282 - INFO - Successfully extracted 12 products
+2026-02-20 23:49:24,282 - INFO - Page 14: Scraped 12 products (Total: 168)
+2026-02-20 23:49:26,298 - INFO - Processing page 15: https://tokbd.com/products?page=15
+2026-02-20 23:49:26,298 - INFO - Navigating to: https://tokbd.com/products?page=15 (attempt 1/3)
+2026-02-20 23:49:43,803 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:49:43,804 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:49:43,804 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:43,804 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:49:43,805 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:49:43,805 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:43,805 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:43,805 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:44,308 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:49:44,322 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:49:45,337 - INFO - Found 12 product cards on page
+2026-02-20 23:49:45,340 - INFO - Successfully extracted 12 products
+2026-02-20 23:49:45,340 - INFO - Page 15: Scraped 12 products (Total: 180)
+2026-02-20 23:49:45,343 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:49:47,345 - INFO - Processing page 16: https://tokbd.com/products?page=16
+2026-02-20 23:49:47,345 - INFO - Navigating to: https://tokbd.com/products?page=16 (attempt 1/3)
+2026-02-20 23:49:52,534 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:49:52,534 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:49:52,535 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:52,535 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:49:52,536 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:49:52,536 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:49:52,536 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:49:52,537 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:52,537 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:53,040 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:49:53,057 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:49:54,073 - INFO - Found 12 product cards on page
+2026-02-20 23:49:54,076 - INFO - Successfully extracted 12 products
+2026-02-20 23:49:54,077 - INFO - Page 16: Scraped 12 products (Total: 192)
+2026-02-20 23:49:56,090 - INFO - Processing page 17: https://tokbd.com/products?page=17
+2026-02-20 23:49:56,091 - INFO - Navigating to: https://tokbd.com/products?page=17 (attempt 1/3)
+2026-02-20 23:49:56,851 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:49:56,870 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:49:57,429 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:49:57,888 - INFO - Found 12 product cards on page
+2026-02-20 23:49:57,892 - INFO - Successfully extracted 12 products
+2026-02-20 23:49:57,893 - INFO - Page 17: Scraped 12 products (Total: 204)
+2026-02-20 23:49:59,904 - INFO - Processing page 18: https://tokbd.com/products?page=18
+2026-02-20 23:49:59,905 - INFO - Navigating to: https://tokbd.com/products?page=18 (attempt 1/3)
+2026-02-20 23:50:00,106 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:00,107 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:50:00,107 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:50:00,108 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:50:00,108 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:00,109 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:00,110 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:50:00,111 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:50:00,111 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:00,506 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:00,801 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:26,345 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:50:26,346 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:50:26,346 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:26,347 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:50:26,347 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:50:26,348 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:50:26,348 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:26,349 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:26,349 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:26,859 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:50:26,873 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:50:27,884 - INFO - Found 12 product cards on page
+2026-02-20 23:50:27,888 - INFO - Successfully extracted 12 products
+2026-02-20 23:50:27,888 - INFO - Page 18: Scraped 12 products (Total: 216)
+2026-02-20 23:50:29,889 - INFO - Processing page 19: https://tokbd.com/products?page=19
+2026-02-20 23:50:29,889 - INFO - Navigating to: https://tokbd.com/products?page=19 (attempt 1/3)
+2026-02-20 23:50:30,698 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:50:30,931 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:50:30,974 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:31,456 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:31,944 - INFO - Found 12 product cards on page
+2026-02-20 23:50:31,949 - INFO - Successfully extracted 12 products
+2026-02-20 23:50:31,949 - INFO - Page 19: Scraped 12 products (Total: 228)
+2026-02-20 23:50:32,223 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:50:32,223 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:50:32,224 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:32,224 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:50:32,225 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:50:32,225 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:50:32,226 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:32,226 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:32,226 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:32,487 - WARNING - Request failed: https://tokbd.com/products?page=49&_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:32,488 - WARNING - Request failed: https://tokbd.com/products?page=19&_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:32,596 - WARNING - Request failed: https://tokbd.com/products?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:32,600 - WARNING - Request failed: https://tokbd.com/products?page=49&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:32,600 - WARNING - Request failed: https://tokbd.com/products?page=19&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:32,606 - WARNING - Request failed: https://tokbd.com/products?page=20&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:32,694 - WARNING - Request failed: https://tokbd.com/products?page=18&_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:33,964 - INFO - Processing page 20: https://tokbd.com/products?page=20
+2026-02-20 23:50:33,964 - INFO - Navigating to: https://tokbd.com/products?page=20 (attempt 1/3)
+2026-02-20 23:50:43,176 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:50:43,176 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:43,177 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:43,178 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:43,690 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:50:43,712 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:50:43,897 - INFO - Verification screenshot saved for page 20
+2026-02-20 23:50:44,906 - INFO - Found 12 product cards on page
+2026-02-20 23:50:44,911 - INFO - Successfully extracted 12 products
+2026-02-20 23:50:44,911 - INFO - Page 20: Scraped 12 products (Total: 240)
+2026-02-20 23:50:44,915 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:50:46,922 - INFO - Processing page 21: https://tokbd.com/products?page=21
+2026-02-20 23:50:46,922 - INFO - Navigating to: https://tokbd.com/products?page=21 (attempt 1/3)
+2026-02-20 23:50:47,473 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:50:57,989 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:50:57,990 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:50:57,991 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:57,992 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:50:57,992 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:50:57,992 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:50:57,993 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:50:57,993 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:57,993 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:50:58,495 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:50:58,509 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:50:59,524 - INFO - Found 12 product cards on page
+2026-02-20 23:50:59,528 - INFO - Successfully extracted 12 products
+2026-02-20 23:50:59,528 - INFO - Page 21: Scraped 12 products (Total: 252)
+2026-02-20 23:51:01,535 - INFO - Processing page 22: https://tokbd.com/products?page=22
+2026-02-20 23:51:01,535 - INFO - Navigating to: https://tokbd.com/products?page=22 (attempt 1/3)
+2026-02-20 23:51:01,857 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:02,037 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:51:17,186 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:51:17,187 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:51:17,188 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:17,188 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:51:17,189 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:51:17,190 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:51:17,190 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:17,191 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:17,191 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:17,690 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:51:17,722 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:51:18,739 - INFO - Found 12 product cards on page
+2026-02-20 23:51:18,744 - INFO - Successfully extracted 12 products
+2026-02-20 23:51:18,744 - INFO - Page 22: Scraped 12 products (Total: 264)
+2026-02-20 23:51:20,760 - INFO - Processing page 23: https://tokbd.com/products?page=23
+2026-02-20 23:51:20,760 - INFO - Navigating to: https://tokbd.com/products?page=23 (attempt 1/3)
+2026-02-20 23:51:21,131 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:21,366 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:51:50,771 - WARNING - Failed with networkidle strategy: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://tokbd.com/products?page=23", waiting until "networkidle"
+
+2026-02-20 23:51:50,890 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:51:50,892 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:51:50,893 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:50,893 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:51:50,894 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:50,895 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:51:50,895 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:50,896 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:50,897 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:51:51,131 - INFO - Successfully loaded with domcontentloaded strategy
+2026-02-20 23:51:51,270 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:51:51,275 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:51:52,285 - INFO - Found 12 product cards on page
+2026-02-20 23:51:52,290 - INFO - Successfully extracted 12 products
+2026-02-20 23:51:52,290 - INFO - Page 23: Scraped 12 products (Total: 276)
+2026-02-20 23:51:54,302 - INFO - Processing page 24: https://tokbd.com/products?page=24
+2026-02-20 23:51:54,302 - INFO - Navigating to: https://tokbd.com/products?page=24 (attempt 1/3)
+2026-02-20 23:51:54,428 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:51:54,429 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:54,430 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:51:54,430 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:51:54,431 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:51:54,432 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:54,432 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:51:54,433 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:54,434 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:54,681 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:55,056 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:51:59,108 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:51:59,109 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:51:59,110 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:59,110 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:51:59,111 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:51:59,111 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:51:59,111 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:51:59,112 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:59,112 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:51:59,622 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:51:59,637 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:00,657 - INFO - Found 12 product cards on page
+2026-02-20 23:52:00,662 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:00,662 - INFO - Page 24: Scraped 12 products (Total: 288)
+2026-02-20 23:52:02,673 - INFO - Processing page 25: https://tokbd.com/products?page=25
+2026-02-20 23:52:02,673 - INFO - Navigating to: https://tokbd.com/products?page=25 (attempt 1/3)
+2026-02-20 23:52:03,424 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:03,543 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:03,850 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:04,555 - INFO - Found 12 product cards on page
+2026-02-20 23:52:04,563 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:04,564 - INFO - Page 25: Scraped 12 products (Total: 300)
+2026-02-20 23:52:04,570 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:52:06,572 - INFO - Processing page 26: https://tokbd.com/products?page=26
+2026-02-20 23:52:06,572 - INFO - Navigating to: https://tokbd.com/products?page=26 (attempt 1/3)
+2026-02-20 23:52:06,696 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:06,696 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:06,697 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:06,697 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:06,697 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:06,697 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:06,698 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:06,698 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:06,698 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:07,370 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:07,596 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:08,608 - INFO - Found 12 product cards on page
+2026-02-20 23:52:08,616 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:08,616 - INFO - Page 26: Scraped 12 products (Total: 312)
+2026-02-20 23:52:10,629 - INFO - Processing page 27: https://tokbd.com/products?page=27
+2026-02-20 23:52:10,629 - INFO - Navigating to: https://tokbd.com/products?page=27 (attempt 1/3)
+2026-02-20 23:52:10,737 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:10,738 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:10,738 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:10,738 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:10,738 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:10,739 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:10,739 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:10,740 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:10,740 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:11,534 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:11,656 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:11,788 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:12,063 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:12,672 - INFO - Found 12 product cards on page
+2026-02-20 23:52:12,684 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:12,684 - INFO - Page 27: Scraped 12 products (Total: 324)
+2026-02-20 23:52:14,699 - INFO - Processing page 28: https://tokbd.com/products?page=28
+2026-02-20 23:52:14,699 - INFO - Navigating to: https://tokbd.com/products?page=28 (attempt 1/3)
+2026-02-20 23:52:14,834 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:14,835 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:14,836 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:14,837 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:14,837 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:14,837 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:14,838 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:14,838 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:14,838 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:15,554 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:15,779 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:15,932 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:16,137 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:16,791 - INFO - Found 12 product cards on page
+2026-02-20 23:52:16,796 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:16,796 - INFO - Page 28: Scraped 12 products (Total: 336)
+2026-02-20 23:52:18,798 - INFO - Processing page 29: https://tokbd.com/products?page=29
+2026-02-20 23:52:18,798 - INFO - Navigating to: https://tokbd.com/products?page=29 (attempt 1/3)
+2026-02-20 23:52:18,915 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:18,916 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:18,916 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:18,916 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:18,917 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:18,917 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:18,917 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:18,918 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:18,918 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:19,596 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:19,810 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:20,021 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:20,819 - INFO - Found 12 product cards on page
+2026-02-20 23:52:20,825 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:20,825 - INFO - Page 29: Scraped 12 products (Total: 348)
+2026-02-20 23:52:22,834 - INFO - Processing page 30: https://tokbd.com/products?page=30
+2026-02-20 23:52:22,834 - INFO - Navigating to: https://tokbd.com/products?page=30 (attempt 1/3)
+2026-02-20 23:52:22,946 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:22,946 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:22,947 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:22,947 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:22,947 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:22,948 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:22,948 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:22,948 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:22,948 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:23,642 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:23,861 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:23,950 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:24,112 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:27,045 - INFO - Verification screenshot saved for page 30
+2026-02-20 23:52:28,055 - INFO - Found 12 product cards on page
+2026-02-20 23:52:28,061 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:28,061 - INFO - Page 30: Scraped 12 products (Total: 360)
+2026-02-20 23:52:28,066 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:52:30,079 - INFO - Processing page 31: https://tokbd.com/products?page=31
+2026-02-20 23:52:30,079 - INFO - Navigating to: https://tokbd.com/products?page=31 (attempt 1/3)
+2026-02-20 23:52:30,210 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:30,211 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:30,211 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:30,212 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:30,213 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:30,213 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:30,213 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:30,214 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:30,214 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:31,015 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:31,040 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:31,182 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:32,055 - INFO - Found 12 product cards on page
+2026-02-20 23:52:32,061 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:32,062 - INFO - Page 31: Scraped 12 products (Total: 372)
+2026-02-20 23:52:34,063 - INFO - Processing page 32: https://tokbd.com/products?page=32
+2026-02-20 23:52:34,063 - INFO - Navigating to: https://tokbd.com/products?page=32 (attempt 1/3)
+2026-02-20 23:52:34,207 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:34,208 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:34,208 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:34,208 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:34,209 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:34,209 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:34,209 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:34,209 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:34,209 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:34,814 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:35,167 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:35,270 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:35,487 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:36,175 - INFO - Found 12 product cards on page
+2026-02-20 23:52:36,180 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:36,181 - INFO - Page 32: Scraped 12 products (Total: 384)
+2026-02-20 23:52:38,194 - INFO - Processing page 33: https://tokbd.com/products?page=33
+2026-02-20 23:52:38,195 - INFO - Navigating to: https://tokbd.com/products?page=33 (attempt 1/3)
+2026-02-20 23:52:38,315 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:38,315 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:38,316 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:38,316 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:38,316 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:38,316 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:38,317 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:38,317 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:38,317 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:38,542 - ERROR - Page error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+2026-02-20 23:52:39,278 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:39,609 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:49,152 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:49,153 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:49,153 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:49,153 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:49,154 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:49,154 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:49,154 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:49,155 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:49,155 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:49,661 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:49,679 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:50,697 - INFO - Found 12 product cards on page
+2026-02-20 23:52:50,701 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:50,701 - INFO - Page 33: Scraped 12 products (Total: 396)
+2026-02-20 23:52:52,710 - INFO - Processing page 34: https://tokbd.com/products?page=34
+2026-02-20 23:52:52,711 - INFO - Navigating to: https://tokbd.com/products?page=34 (attempt 1/3)
+2026-02-20 23:52:53,898 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:52:57,878 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:52:57,878 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:52:57,879 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:57,879 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:52:57,880 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:52:57,880 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:52:57,880 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:52:57,881 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:57,881 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:52:58,392 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:52:58,413 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:52:59,422 - INFO - Found 12 product cards on page
+2026-02-20 23:52:59,428 - INFO - Successfully extracted 12 products
+2026-02-20 23:52:59,428 - INFO - Page 34: Scraped 12 products (Total: 408)
+2026-02-20 23:53:01,441 - INFO - Processing page 35: https://tokbd.com/products?page=35
+2026-02-20 23:53:01,442 - INFO - Navigating to: https://tokbd.com/products?page=35 (attempt 1/3)
+2026-02-20 23:53:02,264 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:02,602 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:02,702 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:02,859 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:03,618 - INFO - Found 12 product cards on page
+2026-02-20 23:53:03,624 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:03,624 - INFO - Page 35: Scraped 12 products (Total: 420)
+2026-02-20 23:53:03,630 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:53:05,643 - INFO - Processing page 36: https://tokbd.com/products?page=36
+2026-02-20 23:53:05,644 - INFO - Navigating to: https://tokbd.com/products?page=36 (attempt 1/3)
+2026-02-20 23:53:05,752 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:05,752 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:05,753 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:05,753 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:05,754 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:05,754 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:05,754 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:05,755 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:05,755 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:06,454 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:06,678 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:06,797 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:06,970 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:07,695 - INFO - Found 12 product cards on page
+2026-02-20 23:53:07,698 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:07,698 - INFO - Page 36: Scraped 12 products (Total: 432)
+2026-02-20 23:53:09,707 - INFO - Processing page 37: https://tokbd.com/products?page=37
+2026-02-20 23:53:09,707 - INFO - Navigating to: https://tokbd.com/products?page=37 (attempt 1/3)
+2026-02-20 23:53:09,855 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:09,856 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:09,856 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:09,856 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:09,857 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:09,857 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:09,857 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:09,857 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:09,857 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:10,613 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:10,666 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:10,775 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:10,959 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:11,686 - INFO - Found 12 product cards on page
+2026-02-20 23:53:11,690 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:11,691 - INFO - Page 37: Scraped 12 products (Total: 444)
+2026-02-20 23:53:13,706 - INFO - Processing page 38: https://tokbd.com/products?page=38
+2026-02-20 23:53:13,706 - INFO - Navigating to: https://tokbd.com/products?page=38 (attempt 1/3)
+2026-02-20 23:53:13,848 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:13,848 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:13,849 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:13,849 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:13,849 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:13,850 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:13,850 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:13,850 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:13,850 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:14,485 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:14,821 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:14,907 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:15,833 - INFO - Found 12 product cards on page
+2026-02-20 23:53:15,836 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:15,837 - INFO - Page 38: Scraped 12 products (Total: 456)
+2026-02-20 23:53:17,841 - INFO - Processing page 39: https://tokbd.com/products?page=39
+2026-02-20 23:53:17,842 - INFO - Navigating to: https://tokbd.com/products?page=39 (attempt 1/3)
+2026-02-20 23:53:17,962 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:17,962 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:17,963 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:17,963 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:17,964 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:17,964 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:17,964 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:17,965 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:17,965 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:18,560 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:18,792 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:19,135 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:19,814 - INFO - Found 12 product cards on page
+2026-02-20 23:53:19,820 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:19,821 - INFO - Page 39: Scraped 12 products (Total: 468)
+2026-02-20 23:53:21,830 - INFO - Processing page 40: https://tokbd.com/products?page=40
+2026-02-20 23:53:21,831 - INFO - Navigating to: https://tokbd.com/products?page=40 (attempt 1/3)
+2026-02-20 23:53:21,958 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:21,958 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:21,958 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:21,959 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:21,959 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:21,959 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:21,960 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:21,960 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:21,960 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:22,624 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:22,856 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:23,177 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:26,185 - INFO - Verification screenshot saved for page 40
+2026-02-20 23:53:27,196 - INFO - Found 12 product cards on page
+2026-02-20 23:53:27,199 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:27,200 - INFO - Page 40: Scraped 12 products (Total: 480)
+2026-02-20 23:53:27,213 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:53:29,222 - INFO - Processing page 41: https://tokbd.com/products?page=41
+2026-02-20 23:53:29,223 - INFO - Navigating to: https://tokbd.com/products?page=41 (attempt 1/3)
+2026-02-20 23:53:29,341 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:29,341 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:29,341 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:29,342 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:29,342 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:29,342 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:29,343 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:29,343 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:29,343 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:30,249 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:39,824 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:39,825 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:39,825 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:39,825 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:39,826 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:39,826 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:39,826 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:39,827 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:39,827 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:40,325 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:40,343 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:41,353 - INFO - Found 12 product cards on page
+2026-02-20 23:53:41,356 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:41,357 - INFO - Page 41: Scraped 12 products (Total: 492)
+2026-02-20 23:53:43,366 - INFO - Processing page 42: https://tokbd.com/products?page=42
+2026-02-20 23:53:43,366 - INFO - Navigating to: https://tokbd.com/products?page=42 (attempt 1/3)
+2026-02-20 23:53:44,113 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:44,340 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:44,378 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:44,584 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:53:45,350 - INFO - Found 12 product cards on page
+2026-02-20 23:53:45,354 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:45,354 - INFO - Page 42: Scraped 12 products (Total: 504)
+2026-02-20 23:53:47,357 - INFO - Processing page 43: https://tokbd.com/products?page=43
+2026-02-20 23:53:47,357 - INFO - Navigating to: https://tokbd.com/products?page=43 (attempt 1/3)
+2026-02-20 23:53:47,491 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:47,492 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:47,492 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:47,492 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:47,493 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:47,493 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:47,493 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:47,494 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:47,494 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:48,126 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:48,365 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:48,455 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:49,376 - INFO - Found 12 product cards on page
+2026-02-20 23:53:49,380 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:49,380 - INFO - Page 43: Scraped 12 products (Total: 516)
+2026-02-20 23:53:51,385 - INFO - Processing page 44: https://tokbd.com/products?page=44
+2026-02-20 23:53:51,386 - INFO - Navigating to: https://tokbd.com/products?page=44 (attempt 1/3)
+2026-02-20 23:53:51,517 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:51,518 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:51,518 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:51,518 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:51,519 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:51,519 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:51,519 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:51,520 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:51,520 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:52,290 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:52,400 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:52,514 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:53,421 - INFO - Found 12 product cards on page
+2026-02-20 23:53:53,426 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:53,426 - INFO - Page 44: Scraped 12 products (Total: 528)
+2026-02-20 23:53:55,428 - INFO - Processing page 45: https://tokbd.com/products?page=45
+2026-02-20 23:53:55,429 - INFO - Navigating to: https://tokbd.com/products?page=45 (attempt 1/3)
+2026-02-20 23:53:55,566 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:55,566 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:53:55,567 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:55,567 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:55,567 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:55,568 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:55,568 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:55,568 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:55,568 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:56,255 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:53:56,492 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:53:56,667 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:57,503 - INFO - Found 12 product cards on page
+2026-02-20 23:53:57,508 - INFO - Successfully extracted 12 products
+2026-02-20 23:53:57,508 - INFO - Page 45: Scraped 12 products (Total: 540)
+2026-02-20 23:53:57,514 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:53:59,528 - INFO - Processing page 46: https://tokbd.com/products?page=46
+2026-02-20 23:53:59,528 - INFO - Navigating to: https://tokbd.com/products?page=46 (attempt 1/3)
+2026-02-20 23:53:59,657 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:53:59,657 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:59,658 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:59,658 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:53:59,659 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:53:59,659 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:53:59,659 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:53:59,659 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:53:59,659 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:54:00,369 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:00,593 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:00,750 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:54:01,603 - INFO - Found 12 product cards on page
+2026-02-20 23:54:01,606 - INFO - Successfully extracted 12 products
+2026-02-20 23:54:01,607 - INFO - Page 46: Scraped 12 products (Total: 552)
+2026-02-20 23:54:03,613 - INFO - Processing page 47: https://tokbd.com/products?page=47
+2026-02-20 23:54:03,613 - INFO - Navigating to: https://tokbd.com/products?page=47 (attempt 1/3)
+2026-02-20 23:54:03,743 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:54:03,743 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:54:03,744 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:03,744 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:03,744 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:03,745 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:54:03,745 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:03,745 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:54:03,745 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:54:04,326 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:04,660 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:04,741 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:04,781 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:54:04,781 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:54:04,781 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:04,782 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:54:04,782 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:54:04,782 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:54:04,782 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:04,782 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:04,783 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:04,864 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:54:05,672 - INFO - Found 12 product cards on page
+2026-02-20 23:54:05,678 - INFO - Successfully extracted 12 products
+2026-02-20 23:54:05,679 - INFO - Page 47: Scraped 12 products (Total: 564)
+2026-02-20 23:54:07,685 - INFO - Processing page 48: https://tokbd.com/products?page=48
+2026-02-20 23:54:07,685 - INFO - Navigating to: https://tokbd.com/products?page=48 (attempt 1/3)
+2026-02-20 23:54:08,389 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:08,725 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:09,732 - INFO - Found 12 product cards on page
+2026-02-20 23:54:09,735 - INFO - Successfully extracted 12 products
+2026-02-20 23:54:09,735 - INFO - Page 48: Scraped 12 products (Total: 576)
+2026-02-20 23:54:11,738 - INFO - Processing page 49: https://tokbd.com/products?page=49
+2026-02-20 23:54:11,738 - INFO - Navigating to: https://tokbd.com/products?page=49 (attempt 1/3)
+2026-02-20 23:54:11,866 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:11,867 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:54:11,867 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:11,867 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:54:11,867 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:11,868 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:11,869 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:54:12,580 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:12,802 - INFO - Content found with selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:13,810 - INFO - Found 7 product cards on page
+2026-02-20 23:54:13,813 - INFO - Successfully extracted 7 products
+2026-02-20 23:54:13,813 - INFO - Page 49: Scraped 7 products (Total: 583)
+2026-02-20 23:54:15,819 - INFO - Processing page 50: https://tokbd.com/products?page=50
+2026-02-20 23:54:15,820 - INFO - Navigating to: https://tokbd.com/products?page=50 (attempt 1/3)
+2026-02-20 23:54:15,950 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:54:15,951 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:15,952 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:15,952 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:15,952 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:54:15,953 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:54:15,953 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:15,953 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:54:15,954 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:54:16,598 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:16,882 - WARNING - Request failed: https://tokbd.com/?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:17,046 - WARNING - Request failed: https://tokbd.com/?_rsc=1iw1p - net::ERR_ABORTED
+2026-02-20 23:54:18,882 - WARNING - Request failed: https://tokbd.com/products?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:21,602 - WARNING - Timeout waiting for selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:21,612 - INFO - Content found with selector: div.grid
+2026-02-20 23:54:22,982 - INFO - Verification screenshot saved for page 50
+2026-02-20 23:54:24,000 - WARNING - No products found on page
+2026-02-20 23:54:24,000 - WARNING - Page 50: No new products extracted
+2026-02-20 23:54:24,001 - INFO - Checking if page 51 has products to confirm end of catalog...
+2026-02-20 23:54:24,001 - INFO - Processing page 51: https://tokbd.com/products?page=51
+2026-02-20 23:54:24,001 - INFO - Navigating to: https://tokbd.com/products?page=51 (attempt 1/3)
+2026-02-20 23:54:24,126 - WARNING - Request failed: https://tokbd.com/categories?_rsc=1m3b7 - net::ERR_ABORTED
+2026-02-20 23:54:24,127 - WARNING - Request failed: https://tokbd.com/brands?_rsc=152jw - net::ERR_ABORTED
+2026-02-20 23:54:24,128 - WARNING - Request failed: https://tokbd.com/brands?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:24,129 - WARNING - Request failed: https://tokbd.com/categories?_rsc=o8i28 - net::ERR_ABORTED
+2026-02-20 23:54:24,129 - WARNING - Request failed: https://tokbd.com/categories?_rsc=rebgr - net::ERR_ABORTED
+2026-02-20 23:54:24,130 - WARNING - Request failed: https://tokbd.com/brands?_rsc=1h2jt - net::ERR_ABORTED
+2026-02-20 23:54:24,131 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:24,131 - WARNING - Request failed: https://tokbd.com/brands?_rsc=vb5au - net::ERR_ABORTED
+2026-02-20 23:54:24,132 - WARNING - Request failed: https://tokbd.com/categories?_rsc=vyo31 - net::ERR_ABORTED
+2026-02-20 23:54:24,733 - INFO - Successfully loaded with networkidle strategy
+2026-02-20 23:54:29,743 - WARNING - Timeout waiting for selector: div.grid > div.flex.flex-col
+2026-02-20 23:54:29,755 - INFO - Content found with selector: div.grid
+2026-02-20 23:54:30,771 - WARNING - No products found on page
+2026-02-20 23:54:30,772 - WARNING - Page 51: No new products extracted
+2026-02-20 23:54:30,772 - WARNING - Confirmed end of products. Stopping scrape.
+2026-02-20 23:54:30,779 - INFO - Progress saved to tokbd_products.json
+2026-02-20 23:54:30,779 - INFO - ============================================================
+2026-02-20 23:54:30,780 - INFO - SCRAPE COMPLETED
+2026-02-20 23:54:30,780 - INFO - ============================================================
+2026-02-20 23:54:30,780 - INFO - Total products scraped: 583
+2026-02-20 23:54:30,780 - INFO - Pages processed: 50
+2026-02-20 23:54:30,781 - INFO - Failed pages: 0
+2026-02-20 23:54:30,781 - INFO - Data saved to: tokbd_products.json
+2026-02-20 23:54:30,782 - INFO - Products in stock: 581
+2026-02-20 23:54:30,782 - INFO - Out of stock: 2
